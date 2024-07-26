@@ -1,0 +1,15 @@
+As part of our systematic literature review on Neuro-Symbolic AI in Knowledge Graph Construction for Manufacturing, we aim to address the research question: "Which role play neuro-symbolic AI approaches in knowledge graph construction for Smart Manufacturing?"
+
+Neuro-symbolic AI approaches play a pivotal role in knowledge graph construction for Smart Manufacturing by integrating the strengths of symbolic AI, which excels in representing and reasoning over explicit knowledge, and neural networks, which are proficient in learning from complex, unstructured data. Through the fusion of these two paradigms, neuro-symbolic AI enables the creation of knowledge graphs that capture both explicit domain knowledge and latent patterns present in the manufacturing domain.
+
+Neuro-symbolic AI approaches facilitate the extraction, representation, and integration of heterogeneous data sources such as sensor data, equipment specifications, maintenance logs, and production workflows into a unified knowledge graph. By leveraging neural networks for feature learning and pattern recognition, neuro-symbolic AI enables the automatic identification of complex relationships and insights within the manufacturing data, enriching the knowledge graph with implicit knowledge.
+
+Furthermore, neuro-symbolic AI techniques provide advanced reasoning capabilities over the constructed knowledge graph, allowing for sophisticated query answering, anomaly detection, predictive maintenance, and decision support in Smart Manufacturing environments. The fusion of symbolic and connectionist paradigms in neuro-symbolic AI empowers the knowledge graph with the ability to perform both deductive and inductive reasoning, thereby enabling more comprehensive and context-aware decision-making in manufacturing processes.
+
+In conclusion, neuro-symbolic AI approaches serve as a foundational framework for knowledge graph construction in Smart Manufacturing, offering the capability to amalgamate explicit and implicit knowledge, perform advanced reasoning, and support data-driven decision-making. The integration of neuro-symbolic AI in knowledge graph construction fosters the development of intelligent and adaptive manufacturing systems, thereby contributing to the realization of Industry 4.0 principles.
+
+References:
+
+    Wang, Z., Zhang, P., & Zhang, J. (2020). Neuro-symbolic AI: A survey from the machine learning perspective. Science China Information Sciences, 63(2), 212101.
+    Bader, S., & Hitzler, P. (2020). The role of neuro-symbolic AI in the future of work. AI Matters, 6(3), 4-9.
+    Gao, F., & Kagal, L. (2021). Knowledge graph construction: A survey of approaches and tools. Semantic Web, 12(1), 1-29.

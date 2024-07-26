@@ -1,0 +1,3 @@
+Write for the paper with the title "Systematic Literature Review on Neuro-Symbolic AI in Knowledge Graph Construction for Manufacturing" 
+an answer to the research question: "Which role play neuro-symbolic AI approaches in knowledge graph construction for Smart Manufacturing?". 
+This is the main research question of the paper.

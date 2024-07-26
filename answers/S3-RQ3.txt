@@ -1,0 +1,21 @@
+In the context of the paper titled "Systematic Literature Review on Neuro-Symbolic AI in Knowledge Graph Construction for Manufacturing," we address the research question: "What are common neuro-symbolic AI architectures in knowledge graph construction?"
+
+Neuro-symbolic AI combines neural networks with symbolic reasoning to leverage the strengths of both approaches: the learning capabilities of neural networks and the interpretability and reasoning of symbolic AI. In knowledge graph construction, particularly for manufacturing, the integration of these architectures is vital to address complex, multi-faceted data and the need for explainability and adherence to domain-specific constraints.
+
+A review of recent literature reveals several common neuro-symbolic AI architectures employed in knowledge graph construction:
+
+    Embedding and Reasoning Frameworks: These frameworks typically use neural networks to learn low-dimensional embeddings of entities and relations from data. Then, symbolic reasoning is applied on these embeddings to infer new knowledge. For example, TensorLog, a differentiable deductive database, allows for learning and reasoning over large knowledge bases (Cohen, 2016).
+    Neural-Symbolic Integration via Attention Mechanisms: Attention mechanisms in neural networks can be used to focus on relevant parts of the input when predicting an output. This can be seen as a form of soft symbolic reasoning. For example, the work by Cochez et al. (2017) uses attention-based neural networks to perform entity resolution in knowledge graphs.
+    Hybrid Convolutional Models: These models use convolutional neural networks to capture local and global graph structures and combine them with symbolic logic rules for reasoning. An example is the R-GCN model (Relational Graph Convolutional Networks) that incorporates relational logic rules into the convolutional architecture (Schlichtkrull et al., 2018).
+    Neural Theorem Provers: These architectures use neural networks to guide the theorem proving process in a symbolic reasoning system. For instance, the Neural Theorem Prover (NTP) by Rocktäschel and Riedel (2017) combines the structure of Prolog-like logic programming with neural networks to enable end-to-end differentiable proving.
+    Inductive Logic Programming with Neural Networks: Inductive logic programming (ILP) is a form of symbolic learning that constructs logic programs from examples. Integrating ILP with neural networks allows for learning both the structure and parameters of logic programs from data. An example is the work by Evans and Grefenstette (2018), which uses neural networks to guide the search for logic rules.
+
+    In conclusion, common neuro-symbolic AI architectures in knowledge graph construction involve the combination of neural network-based learning with symbolic reasoning. These architectures aim to exploit the complementary strengths of sub-symbolic representation learning and symbolic logical inference, which is particularly relevant in the domain of manufacturing where both data complexity and the need for explainability are high.
+
+    References:
+
+    Cohen, W. W. (2016). TensorLog: A Differentiable Deductive Database. arXiv:1605.06523.
+    Cochez, M., Ristoski, P., Ponzetto, S. P., & Paulheim, H. (2017). Global RDF Vector Space Embeddings. ISWC 2017.
+    Schlichtkrull, M., Kipf, T. N., Bloem, P., van den Berg, R., Titov, I., & Welling, M. (2018). Modeling Relational Data with Graph Convolutional Networks. ESWC 2018.
+    Rocktäschel, T., & Riedel, S. (2017). End-to-End Differentiable Proving. NIPS 2017.
+    Evans, R., & Grefenstette, E. (2018). Learning Explanatory Rules from Noisy Data. Journal of Artificial Intelligence Research 61, 1-64.

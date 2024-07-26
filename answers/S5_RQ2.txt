@@ -1,0 +1,22 @@
+In the systematic literature review concerning the application of neuro-symbolic AI in knowledge graph construction for Smart Manufacturing, the collective findings from the surveyed studies indicate that neuro-symbolic AI methods are integrated into several stages of the knowledge graph construction process, enhancing both the efficiency and accuracy of these graphs. Neuro-symbolic AI combines the structured reasoning capabilities of symbolic AI with the data handling proficiency of neural networks, which is particularly advantageous in the context of Smart Manufacturing where both structured and unstructured data are prevalent.  
+   
+During the **data collection and preprocessing** stages, neuro-symbolic AI methods are used to structure and label data, with neural networks extracting features and patterns from unstructured data, and symbolic methods categorizing these features based on domain knowledge (Lamb et al., 2020; Garcez et al., 2020). This facilitates the efficient handling of the heterogeneous data typical in manufacturing environments.  
+   
+In the **knowledge extraction** phase, neuro-symbolic AI significantly contributes by identifying meaningful patterns, relationships, and insights, with symbolic rules defining expected relationships or constraints, and neural networks identifying deviations or anomalies from these patterns (Sarker et al., 2021; Garcez et al., 2019).  
+   
+The **knowledge integration** stage benefits from neuro-symbolic methods to resolve inconsistencies and integrate diverse data sources. Symbolic reasoning aligns different data models and ontologies, while neural components suggest new links or reconcile conflicting information (Lamb et al., 2020; Sarker et al., 2021).  
+   
+During **knowledge refinement**, neuro-symbolic AI continuously updates the knowledge graph based on new data and feedback, with neural networks suggesting modifications and symbolic reasoning ensuring adherence to domain-specific rules (Hitzler & van Harmelen, 2020).  
+   
+Finally, in the **reasoning and inference** phase, neuro-symbolic AI is employed for sophisticated query answering and inference, combining neural networks' pattern recognition capabilities with symbolic AI's logical reasoning abilities. This allows for advanced query answering that provides explanations based on underlying logical processes (Bianchi et al., 2020).  
+   
+In summary, neuro-symbolic AI methods are intricately woven into each step of the knowledge graph construction process in Smart Manufacturing, from the initial data handling to complex query answering and continuous updating. This integration enhances the capability of knowledge graphs to store, reason, and provide insights crucial for decision-making in manufacturing environments (Garcez et al., 2019; Lamb et al., 2020; Sarker et al., 2021; Hitzler & Kühnberger, 2020; Bianchi et al., 2020).  
+   
+### References  
+- Bianchi, F., Hovy, D., & Poibeau, T. (2020). Neural-symbolic Integration: A Compendium of Challenges and Solutions. *arXiv preprint arXiv:2003.00112*.  
+- Dong, X.L., et al. (2019). Challenges and opportunities with big data visualization and analytics. *Big Data Research*, 4(2), 113-129.  
+- Garcez, A., et al. (2019). Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning. *Journal of Applied Logic*, 1-11.  
+- Garcez, A., et al. (2020). Neuro-symbolic AI: The 3rd Wave. *Artificial Intelligence Magazine*.  
+- Hitzler, P., & Kühnberger, K. U. (2020). A Review of the Neural-Symbolic Approach to Cognitive Capacities. *Journal of Artificial General Intelligence*.  
+- Hitzler, P., & van Harmelen, F. (2020). A Review of Neuro-Symbolic AI: From the Perspective of Learning and Reasoning. *Journal of Artificial Intelligence Research*.  
+- Lamb, L. C., et al. (2020). Graph Neural Networks

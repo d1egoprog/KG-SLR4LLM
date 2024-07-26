@@ -1,0 +1,22 @@
+In our systematic literature review focusing on neuro-symbolic AI architectures for knowledge graph construction in manufacturing, we have identified several promising approaches that integrate the learning capabilities of neural networks with the structured reasoning of symbolic AI. This integration is crucial for handling complex tasks such as predictive maintenance, quality control, and supply chain optimization in manufacturing settings.  
+   
+Neuro-Symbolic Cognitive Agents (NSCA) are a recurrent theme across the literature, providing a framework where deep learning methods are integrated with symbolic reasoning to extract and manipulate symbolic rules from raw data processed by neural networks, as highlighted by Garcez et al. (2019) and others (Garcez et al., 2002; Garcez, Lamb, & Gori, 2019). These agents are adept at inferring logical rules and relationships, which are essential for structuring data into knowledge graphs.  
+   
+Differentiable Inductive Logic Programming (ΔILP), as discussed by Evans & Grefenstette (2018), and its variations (DILP), offer a significant contribution by facilitating the learning of logical rules directly from data. This capability is particularly effective for constructing knowledge graphs, as it allows for the automatic generation of symbolic rules that explain relationships between entities.  
+   
+Logic Tensor Networks (LTN), explored by Serafini & Garcez (2016), represent another key architecture that integrates first-order logic with tensor-based learning. LTNs are instrumental in embedding symbolic knowledge into low-dimensional spaces, enabling semantic embedding of graph nodes and edges, and facilitating nuanced understanding and reasoning over the constructed graphs.  
+   
+Additional architectures include Differentiable Reasoning Networks (DRN) (Manhaeve et al., 2018; Minervini et al., 2020), which blend symbolic logical reasoning with sub-symbolic neural processing, and Tensor Product Representations (TPR) (Smolensky, 1990), which embed symbolic structures into a vector space for neural manipulation.  
+   
+Moreover, Semantic-Based Regularization (SBR) (Diligenti et al., 2017) and Neural Theorem Provers (NTPs) (Rocktäschel & Riedel, 2017) are noted for their ability to incorporate semantic knowledge and prove theorems in symbolic form, respectively, thus enhancing the integrity and completeness of knowledge graphs.  
+   
+These diverse neuro-symbolic AI architectures tackle the complex interplay between machine learning and symbolic reasoning, each contributing uniquely to the construction and enhancement of knowledge graphs in manufacturing environments. By leveraging both symbolic reasoning to understand complex relationships and neural networks to handle vast amounts of data, they facilitate a more nuanced understanding of manufacturing processes, leading to improved efficiency and reduced downtime.  
+   
+In conclusion, the exploration of common neuro-symbolic AI architectures such as NSCA, ΔILP, LTN, DRN, TPR, SBR, and NTPs reveals their potential in enhancing knowledge graph construction for manufacturing. These architectures support the effective integration of diverse data types and enable advanced reasoning capabilities essential for complex manufacturing environments, representing a promising direction for future research and application in the field.  
+   
+### References  
+- Cohen, W. (2017). TensorLog: A Differentiable Deductive Database. arXiv preprint arXiv:1707.05390.  
+- Diligenti, M., Roychowdhury, S., & Gori, M. (2017). Integrating prior knowledge into deep learning. 16th International Conference on Machine Learning and Applications (ICMLA).  
+- Evans, R., & Grefenstette, E. (2018). Learning explanatory rules from noisy data. Journal of Artificial Intelligence Research, 61, 1-64.  
+- Garcez, A., Lamb, L., & Gori, M. (2019). Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning. Journal of Applied Logic, 1-11.  
+- Garcez

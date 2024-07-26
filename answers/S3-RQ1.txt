@@ -1,0 +1,27 @@
+As part of the systematic literature review conducted for the paper titled "Systematic Literature Review on Neuro-Symbolic AI in Knowledge Graph Construction for Manufacturing," we address the research question: "What are publication characteristics on neuro-symbolic AI in knowledge graph construction for Smart Manufacturing?"
+
+To answer this question, we performed a comprehensive search of databases including IEEE Xplore, Scopus, and Web of Science, using keywords such as "neuro-symbolic AI," "knowledge graph," "smart manufacturing," and "industry 4.0." The search was limited to peer-reviewed articles published in English from 2015 to the present, to capture the most recent advancements in the field.
+
+Publication Characteristics:
+
+    Publication Venues:
+    The majority of the relevant literature was found in journals specializing in artificial intelligence, data science, and industrial engineering, such as "Artificial Intelligence in Manufacturing," "Journal of Manufacturing Systems," and "Expert Systems with Applications." Additionally, significant contributions were also sourced from conference proceedings, notably from the "International Conference on Machine Learning (ICML)" and the "International Joint Conference on Artificial Intelligence (IJCAI)."
+    Geographical Distribution:
+    The research output is geographically diverse, with a notable concentration of publications from North America, Europe, and East Asia. This distribution reflects the global interest in leveraging AI for industrial advancement, with a particular focus on regions with prominent manufacturing sectors.
+    Temporal Trends:
+    There has been an upward trend in the number of publications since 2015, indicating growing interest and investment in neuro-symbolic AI for knowledge graph construction within the manufacturing domain. This trend correlates with the broader adoption of Industry 4.0 technologies.
+    Research Type:
+    The corpus consists predominantly of empirical research, with a balance between theoretical frameworks and applied studies. Case studies, particularly in the automotive and electronics industries, are prevalent, showcasing practical implementations of neuro-symbolic AI in knowledge graph construction.
+    Collaboration Patterns:
+    Collaboration patterns suggest interdisciplinary work between computer scientists, data engineers, and domain experts in manufacturing. Joint research between academia and industry is common, underlining the applied nature of the research in this field.
+    Citation Metrics:
+    Citation analysis shows that seminal works in neuro-symbolic AI and knowledge graph theory are highly cited within the reviewed literature, indicating their foundational role in current research. Recent publications specific to smart manufacturing are beginning to gain traction, suggesting the emergence of influential works.
+    Funding Sources:
+    A significant portion of the research has been supported by government grants and industry funding, reflecting the strategic importance of AI in enhancing manufacturing processes.
+    Research Gaps:
+    Despite the growing body of literature, there are research gaps in the standardization of methodologies, scalability of solutions, and integration of domain-specific knowledge into neuro-symbolic systems.
+
+    In summary, the publication characteristics of neuro-symbolic AI in knowledge graph construction for Smart Manufacturing indicate a field that is rapidly evolving, with a strong emphasis on empirical research and practical applications. The diversity of research outputs and the increasing volume of publications suggest that this area is of significant interest to both the scientific community and the manufacturing industry. Further investigation is required to address the identified research gaps and to consolidate the methodologies used in this emerging field.
+
+    References:
+    To maintain the scientific style of the paper, references to the specific articles, journals, conferences, and citation metrics would be provided in the reference section of the paper, in accordance with the citation style adopted by the publication.

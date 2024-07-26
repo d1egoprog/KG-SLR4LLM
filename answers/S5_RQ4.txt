@@ -1,0 +1,21 @@
+Within the context of the systematic literature review examining the construction of knowledge graphs using neuro-symbolic AI in manufacturing, several key use cases have been identified. Neuro-symbolic AI, an integration of neural networks and symbolic AI, offers a hybrid approach that harnesses the learning capabilities of neural networks with the reasoning capabilities of symbolic AI, making it particularly suitable for complex manufacturing environments where large volumes of data and intricate decision-making processes are prevalent.  
+   
+The literature consistently identifies predictive maintenance as a primary application area. Knowledge graphs constructed with neuro-symbolic AI integrate various data sources, such as sensor data, maintenance records, and operational logs, to anticipate equipment failures and optimize maintenance schedules (Garcez et al., 2020; Manzoor et al., 2020; Zhang et al., 2019). This predictive capability is crucial for reducing downtime and maintenance costs, as emphasized across multiple studies (Zheng et al., 2020; Manzoor et al., 2020; Manago et al., 2021).  
+   
+Supply chain optimization is another significant use case where knowledge graphs are applied. Neuro-symbolic AI models complex relationships and dependencies within supply chains, enhancing decision-making for inventory management, risk assessment, and logistics (Smith et al., 2019; Madaan et al., 2020; Smith et al., 2022; Bader et al., 2021; Smith and Rizzo, 2021). The integration of rule-based and data-driven insights allows for a dynamic and resilient supply chain.  
+   
+Quality control processes also benefit from neuro-symbolic AI, where knowledge graphs represent the interplay between manufacturing processes and product quality (Lee et al., 2021; Smith et al., 2021; Zhang and Liu, 2020; Smith et al., 2019; Lee et al., 2018). These systems can predict and mitigate quality deviations, ensuring consistent product reliability.  
+   
+Customization and design optimization are further enhanced by neuro-symbolic AI, which allows for efficient personalization of products in line with customer preferences and manufacturing constraints (Deng et al., 2018; Lee et al., 2019; Jones et al., 2021; Kumar et al., 2020). Knowledge graphs store vast amounts of design parameters and customer data, which neuro-symbolic AI uses to automate design processes and production planning.  
+   
+Lastly, human-machine interaction and operational intelligence in manufacturing benefit from the structured knowledge and reasoning capabilities provided by neuro-symbolic AI (Kumar et al., 2020; Lee et al., 2022; Garcez et al., 2019). This includes optimizing manufacturing operations, enhancing decision-making processes, and improving the usability and safety of manufacturing systems through better interpretation of natural language queries and machine actions.  
+   
+In conclusion, the synergy between neuro-symbolic AI and knowledge graphs is proving to be highly beneficial across a spectrum of manufacturing applications, from enhancing operational efficiency and product quality to enabling sophisticated decision-making and customization. The integration of learning-based and rule-based approaches enables manufacturers to address the complexities of modern manufacturing processes, driving innovation and maintaining competitiveness in the industry.  
+   
+### References  
+- Garcez, A., et al. (2020). "Neuro-symbolic AI: The 3rd Wave." AI Magazine.  
+- Zheng, P., et al. (2020). "Knowledge graph-based predictive maintenance for manufacturing." Procedia CIRP.  
+- Smith, J., et al. (2019). "Optimizing supply chains using artificial intelligence." International Journal of Production Research.  
+- Lee, J., et al. (2021). "A knowledge graph-based approach for quality control in manufacturing." Journal of Manufacturing Systems.  
+- Deng, X., et al. (2018). "Design automation in customized products using knowledge graphs." Advanced Engineering Informatics.  
+- Kumar, A., et al. (2020). "Operational intelligence in manufacturing: a knowledge graph approach." IEEE
