@@ -48,17 +48,16 @@ To address the lack of transparency in proprietary AI-supported SLR tools, we ha
 
 ## Citations 
 
-If this work is with your interest, you can read the associated [paper](http://ceur-ws.org/), and if you use it in your research, please don't forget to cite 👍 this work; the suggested citation in BibTex format is:
+If this work is with your interest, you can read the associated [paper](https://ceur-ws.org/Vol-3759/workshop4.pdf), and if you use it in your research, please don't forget to cite 👍 this work; the suggested citation in BibTex format is:
 
 ``` BibTex
 @inproceedings{Schmidt2024b,
 author = {Schmidt, Wilma and Rincon-Yanez, Diego and Kharlamov, Evgeny and Paschke, Adrian},
-booktitle = {Submited to First International Workshop on Scaling Knowledge Graphs for Industry co-located with 20th International Conference on Semantic Systems (SEMANTICS)},
+booktitle = {Joint Proceedings of Posters, Demos, Workshops, and Tutorials of the 20th International Conference on Semantic Systems co-located with 20th International Conference on Semantic Systems (SEMANTiCS 2024)},
 publisher = {CEUR-WS},
-pages = {TBD},
-title = {{Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI},
-volume = {TBD},
-url = {http://ceur-ws.org/},
+title = {{Scaling Scientific Knowledge Discovery with Neuro-Symbolic AI and Large Language Models}},
+volume = {3759},
+url = {https://ceur-ws.org/Vol-3759/workshop4.pdf},
 year = {2024}
 }
 ```
